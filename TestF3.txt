@@ -1,0 +1,2 @@
+This is my file for feature branch which is newly updated
+good to work with git basic commands
